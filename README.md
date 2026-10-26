@@ -1,6 +1,6 @@
 # Hi, I'm Marcello 👋
 
-I'm a final-year BSc (Hons) Computer Science and AI student at Teesside University London, currently on track for a First-Class degree.
+I'm a final-year BSc (Hons) Computer Science student at Teesside University London, currently on track for a First-Class degree.
 
 I have a particular interest in data analysis and enjoy using analytical thinking and problem-solving skills to understand information and explore practical solutions. Through my university studies and commercial development internship at IMA, I've gained experience in programming, software development and cloud technologies.
 
