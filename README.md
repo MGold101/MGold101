@@ -13,7 +13,7 @@ I have a particular interest in data analysis and enjoy using analytical thinkin
 
 ## Featured Project - Guest List Manager
 
-During my summer internship at IMA, I developed Guest List Manager, a full-stack event registration and guest management application.
+During my summer internship at IMA, I developed a Guest List Manager, a full-stack event registration and guest management application.
 
 Built using Next.js, React, Node.js and AWS, the application includes guest registration, administrator authentication, guest management, confirmation emails and real-time updates.
 
